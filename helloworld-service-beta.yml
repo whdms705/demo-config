@@ -1,1 +1,10 @@
+server:
+  port: 8020
 
+leekyoungil:
+  profile: i'm beta
+  said:
+    first: Hello
+    second: world
+   
+message: helloworld-service-beta
