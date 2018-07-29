@@ -1,7 +1,10 @@
+server:
+  port: 8010
+
 leekyoungil:
-  profile: i'm dev
+  profile: i'm beta
   said:
     first: Hello
-    second: Config Server
-    
-message: dev
+    second: world
+   
+message: beta
