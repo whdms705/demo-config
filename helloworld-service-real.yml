@@ -1,1 +1,10 @@
+server:
+  port: 8030
 
+leekyoungil:
+  profile: i'm real
+  said:
+    first: Hello
+    second: world
+   
+message: helloworld-service-real
